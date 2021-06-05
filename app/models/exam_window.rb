@@ -1,0 +1,3 @@
+class ExamWindow < ApplicationRecord
+
+end
